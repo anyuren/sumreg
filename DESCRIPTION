@@ -1,0 +1,12 @@
+Package: msreg
+Title: Summarize the regressions of many companies
+Version: 1.0
+Authors@R: person("Sarah", "Zheng", email = "sszheng@umich.edu", role = c("aut", "cre"))
+Description: Summarize the regression results of company returns.
+     Reformat some of the imported data
+     Provide different formats for the summary
+Depends: R (>= 3.4.0)
+License: Proprietary
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
